@@ -101,21 +101,21 @@ False
 
 Step1: Under the "System Management" tab, select "File Release", select the Trojan file "text.jsp", and click the "Start Upload" button.
 
-![img](image/index/wps6-1655792597412.jpg)
+![图片1](image/index/图片1.png)
 
  
 
 Step2: The upload is successful, and the Trojan path is obtained under the "File List" selected under the "System Management" tab.
 
-![img](image/index/wps7-1655792597412.jpg) 
+![图片2](image/index/图片2.png)
 
-![img](image/index/wps8-1655792597412.jpg) 
+ ![图片3](image/index/图片3.png)
 
 Step3: The path of the assembly Trojan is "http://localhost:8081/sims/upload/text.jsp", connect the Trojan through godzilla.jar, and execute the "dir" command successfully. 
 
-![img](image/index/wps9-1655792597412.jpg) 
+![图片4](image/index/图片4.png) 
 
-![img](image/index/wps10-1655792597412.jpg) 
+![图片5](image/index/图片5.png) 
 
  
 
@@ -170,19 +170,19 @@ False
 
 Step1: Under the "System Management" tab, select "File Release", select any file, and click the "Start Upload" button.
 
-![img](image/index/wps11-1655792597412.jpg) 
+![图片6](image/index/图片6.png) 
 
 Step2: The upload is successful, and under the "System Management" tab, select "File List" and click the "Download" button to obtain the download interface.
 
-![img](image/index/wps12-1655792597412.jpg) 
+![图片7](image/index/图片7.png)
 
-![img](image/index/wps13-1655792597413.jpg) 
+ ![图片8](image/index/图片8.png)
 
 Step3: Refactor the download interface parameters to implement directory spanning and arbitrary file download.
 
-![img](image/index/wps14-1655792597412.jpg) 
+![图片9](image/index/图片9.png)
 
-![img](image/index/wps15-1655792597412.jpg) 
+![图片10](image/index/图片10.png)
 
  
 
@@ -281,13 +281,13 @@ False
 
 Step1: Select "Announcement List" under the "System Management" tab, fill in the constructed payload into the input box, and publish it.
 
-![img](image/index/wps16-1655792597414.jpg) 
+![图片11](image/index/图片11.png) 
 
-![img](image/index/wps17-1655792597414.jpg) 
+![图片12](image/index/图片12.png) 
 
 Step2: When accessing the bulletin, the vulnerability is triggered
 
-![img](image/index/wps18-1655792597414.jpg) 
+![图片13](image/index/图片13.png) 
 
 #### [Reference(s)]
 
